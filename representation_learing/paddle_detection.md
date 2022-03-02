@@ -3,7 +3,7 @@
 > yolov3 base model에서 속도와 성능 개선 작업
 > 
 ## detection stage
-![arc](../rep_img/paddle_img_arc_1.png)
+![arc](../rep_img/0.paddle.arc_1.png)
 
 
 ### 1. Backbone
