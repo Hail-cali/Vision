@@ -6,6 +6,8 @@
 
 ## 1. representation learning
 - ### 1-1) Brief review for representation learning
+- ### 1-2) R-CNN
+- ### 1-3) Selective search
 - ### 1-0) FPN
 - ### 1-0) Retina Net
 
